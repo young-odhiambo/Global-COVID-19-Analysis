@@ -84,5 +84,10 @@ DIVIDE(
 
 Include screenshots of the dashboard here after uploading them to your repository.
 ![image alt](https://github.com/young-odhiambo/Global-COVID-19-Analysis/blob/46fcc92c09bc432f5827ebd26fcb0b997e81aa32/Screenshot%202026-07-06%20010956.png)
-![image alt](
+
+![image alt](https://github.com/young-odhiambo/Global-COVID-19-Analysis/blob/73e6da969d5aa2cfac5211edbeee62d96c21b367/Screenshot%202026-07-06%20015736.png)
+
+## Conclusion
+
+This dashboard transforms raw COVID-19 data into actionable insights through interactive visualizations and meaningful KPIs. It enables users to explore the pandemic's impact across different regions while comparing infection rates, recovery performance, mortality, and testing coverage.
 
