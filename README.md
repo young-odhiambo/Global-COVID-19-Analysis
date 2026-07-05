@@ -24,4 +24,63 @@ Key Performance Indicators (KPIs)
 - Death Rate: 0.99%
 
 ## Visualizations
-![image alt](
+![image alt](https://github.com/young-odhiambo/Global-COVID-19-Analysis/blob/4461449a5616cd9b1e8f75b82b20f4022c29ee62/Screenshot%202026-07-06%20010956.png)
+
+----
+# Key Insights
+## Global Overview
+The dataset reports approximately 1.4 billion confirmed cases globally.
+Around 1.2 billion patients recovered, resulting in an overall 87.7% recovery rate.
+Global deaths totaled approximately 14 million, representing a 0.99% death rate.
+## Continental Analysis
+Europe recorded the highest number of confirmed cases and deaths.
+Asia ranked second in total confirmed cases while maintaining strong recovery numbers.
+Africa and Oceania reported comparatively fewer cases and deaths than other continents.
+## Country Analysis
+The United States recorded the highest number of confirmed cases.
+Other highly affected countries include India, France, Germany, Brazil, South Korea, Japan, Italy, the United Kingdom, and Russia.
+The highest recorded deaths were concentrated in the United States, Brazil, India, Russia, and Mexico.
+## Recovery Trends
+Several countries achieved recovery rates approaching 100%, indicating effective case resolution relative to confirmed infections.
+The global recovery rate of 87.7% demonstrates that the majority of reported infections resulted in recovery.
+
+# Tools & Technologies
+- Power BI Desktop
+- Power Query
+- DAX
+- Interactive Visualizations
+
+# DAX Measures
+Some of the measures created include:
+
+```DAX
+
+Recovery Rate =
+DIVIDE(
+    SUM(Covid_19[Recovered]),
+    SUM(Covid_19[Cases]),
+    0
+)
+
+Death Rate =
+DIVIDE(
+    SUM(Covid_19[Deaths]),
+    SUM(Covid_19[Cases]),
+    0
+)
+```
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- DAX Calculations
+- KPI Design
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Analytical Storytelling
+
+## Dashboard Preview
+
+Include screenshots of the dashboard here after uploading them to your repository.
+
