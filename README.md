@@ -10,7 +10,7 @@ The dashboard is designed to help users quickly understand the global impact of 
 - Compare cases, recoveries, and deaths across countries.
 - Calculate Recovery Rate and Death Rate using DAX.
 - Create an interactive dashboard for data exploration.
-- Demonstrate data modeling and visualization best practices.
+- Demonstrate data visualization best practices.
 
 ----
 
@@ -43,12 +43,14 @@ The highest recorded deaths were concentrated in the United States, Brazil, Indi
 ## Recovery Trends
 Several countries achieved recovery rates approaching 100%, indicating effective case resolution relative to confirmed infections.
 The global recovery rate of 87.7% demonstrates that the majority of reported infections resulted in recovery.
-
+----
 # Tools & Technologies
 - Power BI Desktop
 - Power Query
 - DAX
 - Interactive Visualizations
+
+----
 
 # DAX Measures
 Some of the measures created include:
@@ -70,6 +72,8 @@ DIVIDE(
 )
 ```
 
+----
+
 ## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
@@ -80,6 +84,8 @@ DIVIDE(
 - Business Intelligence
 - Analytical Storytelling
 
+----
+
 ## Dashboard Preview
 Indicates the Dashboards visualisations
 
@@ -87,6 +93,7 @@ Indicates the Dashboards visualisations
 
 ![image alt](https://github.com/young-odhiambo/Global-COVID-19-Analysis/blob/73e6da969d5aa2cfac5211edbeee62d96c21b367/Screenshot%202026-07-06%20015736.png)
 
+----
 
 ## Conclusion
 
