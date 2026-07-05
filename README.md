@@ -28,22 +28,28 @@ Key Performance Indicators (KPIs)
 
 ----
 # Key Insights
+
 ## Global Overview
 The dataset reports approximately 1.4 billion confirmed cases globally.
 Around 1.2 billion patients recovered, resulting in an overall 87.7% recovery rate.
 Global deaths totaled approximately 14 million, representing a 0.99% death rate.
+
 ## Continental Analysis
 Europe recorded the highest number of confirmed cases and deaths.
 Asia ranked second in total confirmed cases while maintaining strong recovery numbers.
 Africa and Oceania reported comparatively fewer cases and deaths than other continents.
+
 ## Country Analysis
 The United States recorded the highest number of confirmed cases.
 Other highly affected countries include India, France, Germany, Brazil, South Korea, Japan, Italy, the United Kingdom, and Russia.
 The highest recorded deaths were concentrated in the United States, Brazil, India, Russia, and Mexico.
+
 ## Recovery Trends
 Several countries achieved recovery rates approaching 100%, indicating effective case resolution relative to confirmed infections.
 The global recovery rate of 87.7% demonstrates that the majority of reported infections resulted in recovery.
+
 ----
+
 # Tools & Technologies
 - Power BI Desktop
 - Power Query
