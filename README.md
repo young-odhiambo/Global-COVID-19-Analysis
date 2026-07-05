@@ -83,4 +83,6 @@ DIVIDE(
 ## Dashboard Preview
 
 Include screenshots of the dashboard here after uploading them to your repository.
+![image alt](https://github.com/young-odhiambo/Global-COVID-19-Analysis/blob/46fcc92c09bc432f5827ebd26fcb0b997e81aa32/Screenshot%202026-07-06%20010956.png)
+![image alt](
 
